@@ -1,1 +1,10 @@
-
+pandas>=2.0.3
+numpy>=1.25.2
+matplotlib>=3.7.1
+seaborn>=0.12.2
+scikit-learn>=1.3.0
+statsmodels>=0.15.2
+plotly>=5.18.0
+streamlit>=1.26.0
+openpyxl>=3.1.3 # If you read Excel files
+xlrd>=2.0.1 # Older Excel files
